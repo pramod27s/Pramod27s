@@ -155,7 +155,7 @@ WebSocket, and Gemini API.
 <p align="center">
   <img
     width="90%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramod27s&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramod27s&theme=tokyonight"
     alt="Pramod's GitHub profile summary"
   />
 </p>
