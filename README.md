@@ -154,19 +154,17 @@ WebSocket, and Gemini API.
 
 <p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=pramod27s&show_icons=true&theme=github_dark&hide_border=true"
-  />
-  <img
-    width="48%"
-    src="https://streak-stats.demolab.com?user=pramod27s&theme=github-dark-blue&hide_border=true"
+    width="90%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramod27s&theme=github_dark"
+    alt="Pramod's GitHub profile summary"
   />
 </p>
 
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramod27s&layout=compact&theme=github_dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=pramod27s&theme=github-dark-blue&hide_border=true"
+    alt="Pramod's GitHub streak stats"
   />
 </p>
 
